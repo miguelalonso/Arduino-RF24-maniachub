@@ -1,3 +1,8 @@
+
+copiado de https://github.com/maniacbug/RF24
+funciona perfectamente en Arduino
+Miguel Alonso - 7 Noviembre 2014
+
 # Arduino driver for nRF24L01 2.4GHz Wireless Transceiver
 
 Design Goals: This library is designed to be...
